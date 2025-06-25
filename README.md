@@ -43,6 +43,7 @@ flutter run
 - 🛒 Ürün listeleme, detay sayfası ve favorilere ekleme  
 - 🔄 Reaktif yapı (controller-view yapısı ile)  
 - ✅ Flutter MVVM benzeri yapı kullanımı
+- 💬Ürünlere yorum ekleme
 
 🎥 Demo
 🎬 [YouTube: Tanıtım Videosu İzle(Yüksek Çözünürlük)](https://youtu.be/B2UlXiQbi_w?si=l1bZyh1Hdd2dg04H)
