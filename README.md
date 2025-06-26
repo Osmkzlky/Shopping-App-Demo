@@ -20,15 +20,27 @@ lib/
 
 </pre>
 
+---
+
 ## 🚀 Kurulum ve Çalıştırma
-1. Flutter bağımlılıklarını yükle:
+
+### 1. Flutter bağımlılıklarını yükle:
+```bash
 flutter pub get
-2. Firebase yapılandırması:
-	•	firebase_options.dart dosyasının otomatik oluşturulduğundan emin olun (flutterfire configure komutu ile).
-	•	google-services.json dosyasını android/app/ klasörüne ekleyin.
-	•	Gerekirse GoogleService-Info.plist dosyasını ios/Runner/ klasörüne ekleyin.
-3. Uygulamayı çalıştır:
+```
+
+### 2. Firebase yapılandırması:
+- `firebase_options.dart` dosyasının oluşturulduğundan emin olun (`flutterfire configure` komutu ile).
+- `google-services.json` dosyasını `android/app/` dizinine ekleyin.
+- `GoogleService-Info.plist` dosyasını `ios/Runner/` klasörüne ekleyin (iOS için).
+
+### 3. Uygulamayı çalıştır:
+```bash
 flutter run
+```
+
+---
+
 ## Kullanılan Teknolojiler
 | Teknoloji       | Açıklama                                      |
 |-----------------|-----------------------------------------------|
